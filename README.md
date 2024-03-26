@@ -8,7 +8,7 @@ Petzone
 - [ ] Deve ser possiível se obter o perfil de usuário logado;
 
 # RNs (Regras de Négocio)
-- [ x] O usuário não deve se cadastrar com um email duplicado;
+- [x] O usuário não deve se cadastrar com um email duplicado;
 
 # RNFS (Requisitos não-funcionais)
 - [ ] A senha do usuário precisa está criptografada;
